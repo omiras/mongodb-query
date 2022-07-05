@@ -37,3 +37,14 @@ Antes de borrar, comprueba tu consulta con un find.
 - Borra todas las películas cuyo campo 'rating' en la propiedad 'imdb' sea menor de 5. - 1288
 
 Puedes practicar más en este [link](https://www.w3resource.com/mongodb-exercises/)
+
+Ejercicios de [Stefano Gallone](https://github.com/Ste2812/Sprint-2-bases-de-datos-NoSQL/blob/master/queries_mongodb.json)
+El ejercicio en estos últimos sería intetar explicar que hace el comando de MongoDB.
+Ejemplo:
+
+```
+db.restaurants.find({borough:'Bronx'}).pretty();
+```
+```
+Devuelve todos los documentos de la colección restaurants que estan ubicados en el barrio del Bronx
+```
