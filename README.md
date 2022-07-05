@@ -36,4 +36,3 @@ Antes de borrar, comprueba tu consulta con un find.
 
 - Borra todas las películas cuyo campo 'rating' en la propiedad 'imdb' sea menor de 5. - 1288
 
-Una vez acabada la tarea podéis practicar un poco más con las planteadas en esta página
