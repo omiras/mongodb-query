@@ -28,14 +28,12 @@ filmadas antes del 1912.
 el operador logico $all
 - Encuentra todas las películas que tienen la propiedad 'rated' con algún valor. Mirar el operador $exists
 - Encuentra todas las películas que tienen la propiedad 'rated' con el valor 'G'. 
-- Encuentra 
+- Encuentra todas las películas que acaban con un dígito. Por ejemplo, la peli "Jonah Who Will Be 25 in the Year 2000"  (necesitarás usar una expresión regular). - 314
  
-MODIFICAR
-
-- 
 
 BORRAR - base de datos sample_mflix, en la coleccion de 'movies'.
 Antes de borrar, comprueba tu consulta con un find.
 
 - Borra todas las películas cuyo campo 'rating' en la propiedad 'imdb' sea menor de 5. - 1288
 
+Puedes practicar más en este [link](https://www.w3resource.com/mongodb-exercises/)
