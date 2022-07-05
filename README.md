@@ -12,11 +12,10 @@ ENCONTRAR - base de datos sample_restaurants, en la coleccion de restaurant
 - Encuentra todos los restaurantes cuyo tipo de cocina sea "American" - 6183
 - Encuentra todos los restaurantes que están ubicados en el barrio (borough) the 'Queens' - 5656
 - Encuentra si existe un restaurante cuyo nombre sea "Cafe Espanol" - 2
-- Encuentra todos los restaurantes que, en su nombre (name), contengan la palabra 'Cafe'. Debes
-usar una expresión regular - 1650
-- Encuentra 
+- Encuentra todos los restaurantes que, en su nombre (name), contengan la palabra 'Cafe'.- 1650
 - Encuentra todos los restaurantes que esten en el edificio '41' - 34
 - Encuentra todos los restaurantes que esten en el edificio '41' o en el edificio '66' - 62
+- Encuentra todos los restaurantes que se encuentran en el barrio del "Bronx"; y preparan o bien comida American o bien comida Chinese - 323
 
 
 ENCONTRAR - base de datos sample_mflix, en la coleccion de 'movies'
@@ -29,7 +28,11 @@ filmadas antes del 1912.
 el operador logico $all
 - Encuentra todas las películas que tienen la propiedad 'rated' con algún valor. Mirar el operador $exists
 - Encuentra todas las películas que tienen la propiedad 'rated' con el valor 'G'. 
+- Encuentra 
  
+MODIFICAR
+
+- 
 
 BORRAR - base de datos sample_mflix, en la coleccion de 'movies'.
 Antes de borrar, comprueba tu consulta con un find.
