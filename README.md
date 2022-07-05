@@ -1,11 +1,14 @@
 # mongodb-query
 
+
 [Chuletario consultas MongoDB](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 
 [MongoDB documentación oficial](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
 
 El formato es: "consulta a realizar" - Número de documentos que satisfacen dicha consulta
 Acordaos que podeis obtener el número de documentos de una consulta con db.restaurants.find().count()
+
+[Soluciones colaborativas](https://docs.google.com/spreadsheets/d/1WcMJDXWRQgkLgfdl_-l7OdfEvK-6QlXqLiDgRvib71w/edit#gid=0)
 
 ENCONTRAR - base de datos sample_restaurants, en la coleccion de restaurant
 
